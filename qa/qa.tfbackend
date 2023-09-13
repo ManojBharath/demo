@@ -1,0 +1,2 @@
+bucket = "terraform-qas3bucket-bmp"
+key = "qa/terraform_qa.tfstate"

@@ -1,0 +1,2 @@
+bucket = "terraform-devs3bucket-bmp"
+key = "dev/terraform_dev.tfstate"
